@@ -61,7 +61,7 @@ El fraude genera pérdidas directas, costos operativos (controversias, soporte) 
 
 ---
 
-## 5. Note future improvements (mejoras futuras)
+## 5.  Futuras mejoras
 
 - **Despliegue en producción:** Poner la API en un entorno estable (cloud o on-prem) usando Docker y FastAPI; configurar HTTPS, límites de tasa y health checks para orquestadores.
 - **Monitoreo:** Logs de predicciones, métricas de latencia y detección de drift (cambios en la distribución de las features o en la tasa de positivos).
