@@ -1,0 +1,12 @@
+# No copiar al contenedor (reduce tamaño de la imagen)
+__pycache__/
+*.py[cod]
+*.ipynb
+.git/
+.cursor/
+*.csv
+archive.zip
+*.venv/
+avanzado-venv/
+.env
+*.md

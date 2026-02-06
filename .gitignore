@@ -1,0 +1,46 @@
+# Dataset (pesado, descargar desde Kaggle)
+creditcard.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Entornos virtuales
+.venv/
+venv/
+avanzado-venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Modelos y artefactos pesados (regenerar con el notebook + export_model)
+models/**/*.joblib
+
+# Variables de entorno y secretos
+.env
+.env.local
+*.pem
+
+# IDE / editor
+.idea/
+.vscode/
+.cursor/
+*.swp
+*.swo
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Otros
+archive.zip
+*.log
