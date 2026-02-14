@@ -1,6 +1,6 @@
 # Detección de fraude en transacciones
 
-Proyecto de ML que entrena un clasificador para detectar transacciones fraudulentas a partir de datos anonimizados (PCA) y expone la predicción vía **API REST** con FastAPI. Incluye EDA, preprocesamiento reutilizable, versionado del modelo y opción de despliegue con Docker.
+Proyecto de ML que entrena un clasificador para detectar transacciones fraudulentas a partir de datos anonimizados (PCA) y expone la predicción vía **API REST** con FastAPI. Incluye EDA, preprocesamiento reutilizable, versionado del modelo y despliegue con Docker.
 
 ---
 
